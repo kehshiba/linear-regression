@@ -1,2 +1,2 @@
 # linear-regression
-basic linear regression stuff 
+basic linear regression stuff to predict gdp 
